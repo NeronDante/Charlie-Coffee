@@ -11,14 +11,14 @@ body {
     src: url(sailec-medium.woff); /* Путь к файлу со шрифтом */
    }
 .head {
-	background: #8c4822;	
+	background: #513533;	
 	height: 10%;
 }
 .head img {
 	height: 100%;
 }
 .menu {
-	background: #672f10;
+	background: #B4442A;
 	height: 3%;
 }
 .menu a{
@@ -30,7 +30,7 @@ body {
 }
 /*картинка с цитатой маштабирумая */
 #qindex{
-	background: #200b00;
+	background: #2F1B27;
 	display: table;
     width: 100%;
     height: 100%;
@@ -59,7 +59,7 @@ body {
 }
 #map {
 	height: 1080px;	
-	background: #cca06f  url(images/about.jpg) no-repeat top;	
+	background: #B4442A  url(images/about.jpg) no-repeat top;	
 	max-width: 100%;
 	margin: -3% 0 0 0;
 
@@ -76,7 +76,7 @@ body {
 
 }
 #about {
-	background: #200b00;
+	background: #2F1B27;
 	max-width: 100%;
 	font-size: 1.1em;
 	height: 600px;
